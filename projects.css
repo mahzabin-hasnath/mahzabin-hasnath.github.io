@@ -13,6 +13,11 @@ body {
     line-height: 150%;
 }
 
+h1 {
+    font-family: Helvetica Neue;
+    font-variant-caps: small-caps;
+}
+
 #menu {
     font-family: Garamond;
 }
@@ -24,6 +29,10 @@ body {
     letter-spacing: normal;
     padding-top: 20px;
     text-align: center;
+}
+
+h2 {
+    font-family: Helvetica Neue;
 }
 
 .center {
