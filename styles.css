@@ -1,3 +1,38 @@
-.content{
-  background-color: pink;
+body {
+    margin: 0;
+    text-align: center;
+}
+
+
+.container {
+    position: relative;
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 60px;
+    line-height: 150%;
+}
+
+#menu {
+    font-family: Garamond;
+}
+
+#content {
+    color: #505050;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: normal;
+    padding-top: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: Helvetica Neue;
+    font-variant-caps: small-caps;
+}
+
+p {
+    font-family: Garamond;
+    display: inline-block;
 }
