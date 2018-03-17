@@ -48,7 +48,7 @@ p {
     color: #505050;
 }
 
-img {
+.img-circle {
     display: inline-block;
     border-radius: 50%;
 }
