@@ -47,3 +47,8 @@ p {
     font-family: Garamond
     color: #505050;
 }
+
+img {
+    display: inline-block;
+    border-radius: 50%;
+}
