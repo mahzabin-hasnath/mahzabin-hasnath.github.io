@@ -1,4 +1,4 @@
-body {
+/* body {
     margin: 0;
     text-align: center;
 }
@@ -45,9 +45,18 @@ p {
     text-align: center;
     font-family: Garamond
     color: #505050;
-}
+} */
 
 .img-circle {
     border-radius: 50%;
     width: 200px;
+}
+
+.center-img {
+  display: block;
+  margin: auto;
+}
+
+.center-text {
+  text-align: center;
 }
