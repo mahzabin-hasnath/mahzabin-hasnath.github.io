@@ -15,7 +15,6 @@
 
 .justify-text {
   text-align: justify;
-  font-size: 18px;
 }
 
 .menu {
@@ -23,14 +22,24 @@
 }
 
 #about {
-  padding-top: 125px;
+  padding-top: 75px;
   padding-left: 25px;
 }
 
-#about2 {
+#p1 {
   padding-left: 25px;
+  font-size: 18px;
 }
 
+#p2 {
+  padding-left: 25px;
+  font-size: 18px;
+}
+
+#projects {
+  padding-top: 75px;
+  padding-left: 25px;
+}
 .font-styles {
   font-family: Garamond;
 }
