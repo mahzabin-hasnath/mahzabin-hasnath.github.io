@@ -1,45 +1,3 @@
-.img-circle {
-    border-radius: 50%;
-    width: 200px;
-}
-
-.center-img {
-  display: block;
-  margin: auto;
-}
-
-.center-text {
-  text-align: center;
-  font-size: 18px;
-}
-
-.justify-text {
-  text-align: justify;
-}
-
-.menu {
-  padding-top: 50px;
-}
-
-#about {
-  padding-top: 75px;
-  padding-left: 25px;
-}
-
-#p1 {
-  padding-left: 25px;
-  font-size: 18px;
-}
-
-#p2 {
-  padding-left: 25px;
-  font-size: 18px;
-}
-
-#projects {
-  padding-top: 75px;
-  padding-left: 25px;
-}
 .font-styles {
   font-family: Garamond;
 }
@@ -52,4 +10,14 @@
     width: 100%;
     text-align: center;
     color: #505050;
+}
+
+.no-hyperlink {
+  text-decoration:none;
+  color: inherit;
+}
+
+.menu {
+  text-align: center;
+  margin-top: 45%;
 }
