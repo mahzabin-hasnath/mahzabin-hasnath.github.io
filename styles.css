@@ -1,15 +1,8 @@
+body {
+  background: #e6e0ee !important;
+}
 .font-styles {
   font-family: Garamond;
-}
-
-.footer {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    color: #505050;
 }
 
 .no-hyperlink {
@@ -17,13 +10,13 @@
   color: inherit;
 }
 
-.menu {
-  text-align: center;
-  margin-top: 45%;
-}
-
 .title {
   padding: 15px 0px 0px 50px;
+}
+
+.links {
+  padding: 30px 0px 0px 0px;
+  text-align: center;
 }
 
 .socials {
