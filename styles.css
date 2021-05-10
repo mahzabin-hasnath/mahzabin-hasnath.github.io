@@ -21,3 +21,23 @@
   text-align: center;
   margin-top: 45%;
 }
+
+.title {
+  padding: 15px 0px 0px 50px;
+}
+
+.socials {
+  padding: 15px 0px 0px 0px;
+}
+
+.bio {
+  padding-left: 50px;
+}
+
+.projects {
+  padding-left: 50px;
+}
+
+.art {
+  padding-left: 50px;
+}
