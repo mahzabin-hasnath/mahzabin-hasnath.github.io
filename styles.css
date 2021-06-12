@@ -1,8 +1,6 @@
 body {
   background: #e6e0ee !important;
-}
-.font-styles {
-  font-family: Garamond;
+  font-family: Garamond !important;
 }
 
 .no-hyperlink {
@@ -10,31 +8,27 @@ body {
   color: inherit;
 }
 
-.title {
-  padding: 15px 0px 0px 50px;
-}
-
-.links {
-  padding: 30px 0px 0px 0px;
-  text-align: center;
-}
-
-.socials {
-  padding: 15px 0px 0px 0px;
-}
-
-.bio {
-  padding-left: 50px;
-}
-
 .projects {
-  padding-left: 50px;
+  padding-left: 65px;
 }
 
 .art {
-  padding-left: 50px;
+  padding-left: 65px;
 }
 
 .besties {
-  padding-left: 50px;
+  padding-left: 65px;
+}
+
+#about {
+  padding-top: 50px;
+}
+
+#credit {
+  padding-left:150px;
+  font-style: italic;
+}
+
+#footer {
+  font-size: 16px;
 }
